@@ -1,2 +1,2 @@
-# movieFlix
-rest api and angular js   
+#movieFlix
+REST API, AJAX, JS, ANGULAR, JUNIT
